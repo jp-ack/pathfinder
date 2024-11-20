@@ -22,4 +22,4 @@ This project visualizes the A* pathfinding algorithm, an efficient algorithm use
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/jp-ack/pathfinder
